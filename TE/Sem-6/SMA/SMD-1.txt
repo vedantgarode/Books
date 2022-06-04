@@ -1,0 +1,75 @@
+
+
+This set of Software Engineering Multiple Choice Questions & Answers (MCQs) focuses on “System Modelling – 1”.
+
+1. The Unified Modeling Language (UML) has become an effective standard for software modelling.How many different notations does it have ?
+a) Three
+b) Four
+c) Six
+d) Nine
+View Answer
+
+Answer: d
+Explanation: The different notations of UML includes the nine UML diagrams namely class, object, sequence, collaboration, activity, state-chart, component, deployment and use case diagrams.
+2. Which model in system modelling depicts the dynamic behaviour of the system ?
+a) Context Model
+b) Behavioral Model
+c) Data Model
+d) Object Model
+View Answer
+
+Answer: b
+Explanation: Behavioral models are used to describe the dynamic behavior of an executing system. This can be modeled from the perspective of the data processed by the system or by the events that stimulate responses from a system.
+3. Which model in system modelling depicts the static nature of the system ?
+a) Behavioral Model
+b) Context Model
+c) Data Model
+d) Structural Model
+View Answer
+
+Answer: d
+Explanation: Structural models show the organization and architecture of a system. These are used to define the static structure of classes in a system and their associations.
+4. Which perspective in system modelling shows the system or data architecture.
+a) Structural perspective
+b) Behavioral perspective
+c) External perspective
+d) All of the mentioned
+View Answer
+
+Answer: a
+Explanation: Structural perspective is used to define the static structure of classes in a system and their associations.
+5. Which system model is being depicted by the ATM operations shown below:
+software-engg-mcqs-system-modelling-1-q5
+a) Structural model
+b) Context model
+c) Behavioral model
+d) Interaction model
+View Answer
+
+Answer: b
+Explanation: Context models are used to illustrate the operational context of a system.They show what lies outside the system boundaries.
+6. Activity diagrams are used to model the processing of data.
+a) True
+b) False
+View Answer
+
+Answer: a
+Explanation: The statement mentioned is true and each activity represents one process step.
+7. Model-driven engineering is just a theoretical concept. It cannot be converted into a working/executable code.
+a) True
+b) False
+View Answer
+
+Answer: b
+Explanation: Model-driven engineering is an approach to software development in which a system is represented as a set of models that can be automatically transformed to executable code.
+advertisement
+
+8. The UML supports event-based modeling using ____________ diagrams.
+a) Deployment
+b) Collaboration
+c) State chart
+d) All of the mentioned
+View Answer
+
+Answer: c
+Explanation: State diagrams show system states and events that cause transitions from one state to another.
